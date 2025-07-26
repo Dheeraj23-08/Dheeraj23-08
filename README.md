@@ -1,60 +1,87 @@
-# 👋 Hi, I'm Dheeraj
+<h1 align="center">🚀 Hey there, I'm <span style="color:#0077b5;">Dheeraj Thalour</span>!</h1>
 
-🎓 Computer Science enthusiast | Aspiring ML Engineer & Developer  
-🧠 Passionate about AI, Data Science, and solving real-world problems with technology  
-🚀 Always learning and building something meaningful
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=ML+Engineer+%7C+Data+Scientist;AI+%2F+ML+%2F+GenAI+Enthusiast;Building+Scalable+AI+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+</p>
 
----
+<p align="center">
+  📊 Data Science Enthusiast | 🐍 Python | 🧮 SQL | ➗ Math | 🤖 Machine Learning | 🔍 Exploring Statistical Modeling & Real-World Data
+</p>
 
-## 💡 About Me
-I'm an aspiring developer and machine learning enthusiast with a strong interest in creating scalable, intelligent systems.  
-I enjoy working with data, building apps, and exploring the latest in generative AI and backend systems.
-
----
-
-## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats
+### 🧠 About Me
+Hello! I'm Dheeraj, a Aspiring Data Scientist passionate about building intelligent systems that solve real-world problems through clean code, data, and automation.
+My journey started with a strong foundation in Python, SQL, and popular libraries like Pandas, Scikit-learn, and PyTorch. 📊 I’ve developed end-to-end projects—from data pipelines to interactive dashboards and ML-powered web apps using Streamlit—that bring data to life in intuitive, accessible ways. 
+I'm constantly learning and exploring modern ML frameworks, tools, and best practices—always aiming to build solutions that are not only functional but impactful.
 
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj-2308&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj-2308&layout=compact&theme=tokyonight)
+### 🔧 Tech Toolbox
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+  <!-- Data & ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+
+  <!-- GenAI & Frameworks -->
+  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-5E17EB?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Groq-AE2EFF?style=for-the-badge&logo=openai&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LangGraph-black?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Agno-A600FF?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastMCP-FF6B6B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <!-- Tools & Dev -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
 
 ---
 
-## 🌐 Portfolio & Links
+### 📈 GitHub Analytics
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/dheeraj-2308)
-- 💼 Portfolio: [dheeraj-portfolio.vercel.app](https://dheeraj-portfolio.vercel.app) *(example — update if needed)*
-- 📫 Email: dheeraj2308@gmail.com
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg2004&show_icons=true&theme=default&hide_title=false&hide_rank=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgarg2004&layout=compact&theme=default" width="47%" />
+</p>
 
 ---
 
-⭐️ **Thanks for visiting my profile! Let's connect and build something amazing.**
+### 🌐 My Work & Portfolio
 
-<!--
-**Dheeraj23-08/Dheeraj23-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://codebasics.io/portfolio/Dheeraj-Thalour">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:dheerajthalour23@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  🚀 *Striving to blend ML with creativity and real-world impact.*
+</p>
