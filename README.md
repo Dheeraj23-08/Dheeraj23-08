@@ -16,7 +16,8 @@ Hello! I'm Dheeraj, a Aspiring Data Scientist passionate about building intellig
 My journey started with a strong foundation in Python, SQL, and popular libraries like Pandas, Scikit-learn, and PyTorch. 📊 I’ve developed end-to-end projects—from data pipelines to interactive dashboards and ML-powered web apps using Streamlit—that bring data to life in intuitive, accessible ways. 
 I'm constantly learning and exploring modern ML frameworks, tools, and best practices—always aiming to build solutions that are not only functional but impactful.
 
-### 🔧 Tech Toolbox
+### 🛠️ Languages, Libraries & Tools I Work With
+
 
 <p align="center">
   <!-- Languages -->
@@ -54,24 +55,35 @@ I'm constantly learning and exploring modern ML frameworks, tools, and best prac
 </p>
 
 ---
-
-### 🌐 My Work & Portfolio
-
-<p align="center">
-  <a href="https://codebasics.io/portfolio/Dheeraj-Thalour">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect
+### 🌐 My Work, Resume & Connect
 
 <p align="center">
-  <a href="mailto:dheerajthalour23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <!-- Portfolio -->
+  <a href="https://codebasics.io/portfolio/Dheeraj-Thalour" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/">
+  &nbsp;
+
+  <!-- Resume -->
+  <a href="https://drive.google.com/file/d/1payz4F8EPUfbjWcSkdQE1FRlxbaz7yeG/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+  &nbsp;
+
+   <!-- Email -->
+  <a href="mailto:dheerajthalour23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+
+  <!-- GitHub -->
+  <a href="https://github.com/Dheeraj-2308" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
