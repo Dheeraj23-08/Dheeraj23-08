@@ -50,8 +50,8 @@ I'm constantly learning and exploring modern ML frameworks, tools, and best prac
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavgarg2004&show_icons=true&theme=default&hide_title=false&hide_rank=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavgarg2004&layout=compact&theme=default" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj23-08&show_icons=true&theme=default&hide_title=false&hide_rank=false" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj23-08&layout=compact&theme=default" width="47%" />
 </p>
 
 ---
