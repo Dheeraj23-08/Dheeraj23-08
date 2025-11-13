@@ -1,95 +1,82 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#0077b5;">Dheeraj Thalour</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=ML+Engineer+%7C+Data+Scientist;Building+Scalable+AI+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=540&lines=ML+Engineer+%7C+Data+Scientist;Building+Scalable+AI+Apps+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  📊 Data Science Enthusiast | 🐍 Python | 🧮 SQL | ➗ Math | 🤖 Machine Learning | 🔍 Exploring Statistical Modeling & Real-World Data
+  📊 Data Science & ML Enthusiast | 🐍 Python | 🧮 SQL | 🤖 Deep Learning | 🔍 Applied Research
 </p>
-
 
 ---
 
 ### 🧠 About Me
-Hello! I'm Dheeraj, a Aspiring Data Scientist passionate about building intelligent systems that solve real-world problems through clean code, data, and automation.
-My journey started with a strong foundation in Python, SQL, and popular libraries like Pandas, Scikit-learn, and PyTorch. 📊 I’ve developed end-to-end projects—from data pipelines to interactive dashboards and ML-powered web apps using Streamlit—that bring data to life in intuitive, accessible ways. 
-I'm constantly learning and exploring modern ML frameworks, tools, and best practices—always aiming to build solutions that are not only functional but impactful.
-
-### 🛠️ Languages, Libraries & Tools I Work With
-
-
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=python&logoColor=white"/>
-
-
-  <!-- Data & ML -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
-
-
-  <!-- Tools & Dev -->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
-
-</p>
+Hello! I'm Dheeraj — an aspiring Data Scientist and ML engineer combining clean code, solid math, and applied research to build production-ready ML systems. I have hands-on experience with end-to-end pipelines, model development, hyperparameter tuning, and deploying interactive demos (Streamlit / FastAPI). Currently finishing my B.Tech (Civil Engineering) at IIT Ropar while working on ML research and applied AI internships. :contentReference[oaicite:1]{index=1}
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dheeraj23-08&show_icons=true&theme=default&hide_title=false&hide_rank=false" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj23-08&layout=compact&theme=default" width="47%" />
-</p>
-
----
-### 🌐 My Work, Resume & Connect
-
-<p align="center">
-  <!-- Portfolio -->
-  <a href="https://codebasics.io/portfolio/Dheeraj-Thalour" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  &nbsp;
-
-  <!-- Resume -->
-  <a href="https://drive.google.com/file/d/1payz4F8EPUfbjWcSkdQE1FRlxbaz7yeG/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
-  </a>
-  &nbsp;
-
-   <!-- Email -->
-  <a href="mailto:dheerajthalour23@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-
-  <!-- GitHub -->
-  <a href="https://github.com/Dheeraj-2308" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+### 📇 Contact
+- 📧 dheerajthalour23@gmail.com  
+- 📱 +91-7737786011  
+- 🔗 GitHub: https://github.com/Dheeraj23-08  
+- 🔗 Portfolio: https://codebasics.io/portfolio/Dheeraj-Thalour  
+- 🔗 LinkedIn: https://www.linkedin.com/in/dheeraj-thalour-861706259/
 
 ---
 
-<p align="center">
-  🚀 *Striving to blend ML with creativity and real-world impact.*
-</p>
+### 🎓 Education
+**Bachelor of Technology (Civil Engineering)** — Indian Institute of Technology, Ropar  
+CGPA: **7.14** (2022 – 2026). :contentReference[oaicite:2]{index=2}
+
+---
+
+### 💼 Experience
+**Research Intern — IIT Ropar** (June 2025 – Aug 2025)  
+- ML/DL for fatigue & stress estimation in pitting-corroded steel. Built preprocessing, feature engineering, and tuned neural nets (best FCNN R² ≈ 0.8736). Research ongoing: interpretable metrics linking pit geometry → stress/fatigue. :contentReference[oaicite:3]{index=3}
+
+**AI/ML Intern — AtliQ Technologies (Virtual)** (Aug 2025 – Oct 2025)  
+- ResNet50 pipeline for fruit-freshness classification (16 classes, ≈99% test accuracy after augmentation).  
+- End-to-end ML pipeline for beverage price-range prediction with MLflow tracking and Streamlit demo; XGBoost chosen for production (test accuracy ≈0.92). :contentReference[oaicite:4]{index=4}
+
+---
+
+### 🚀 Selected Projects
+- **Human Resource Assistant Tool** — Agentic automation for HR tasks (onboarding, leave, tickets) with Claude MCP orchestration + Streamlit demo. Repo: `Human_Resources_Assistant_Tool`. :contentReference[oaicite:5]{index=5}  
+- **E-commerce Chat Assistant** — Retrieval-augmented LLM assistant with ChromaDB, SQL query routing, and Streamlit UI. Live demo & repo available. :contentReference[oaicite:6]{index=6}  
+- **Car Damage Detector** — CNN / EfficientNet / ResNet50 models on ~2.3k images; embedded in Streamlit app (~79.5% accuracy after tuning & Optuna). :contentReference[oaicite:7]{index=7}  
+- **Credit Risk Evaluator** — Credit scoring pipeline on 50k+ loans (feature engineering, SMOTE-Tomek, Optuna-tuned models). AUC = 0.98; KS >85%; deployed Streamlit app. :contentReference[oaicite:8]{index=8}
+
+(Each project has a public repo and Streamlit demo — links in my portfolio / GitHub.) :contentReference[oaicite:9]{index=9}
+
+---
+
+### 🛠️ Technical Skills
+**Languages:** Python, SQL, C  
+**Data & Visualization:** NumPy, pandas, Matplotlib, Seaborn, Power BI  
+**ML & DL:** scikit-learn, XGBoost, PyTorch, Optuna, MLflow, Hugging Face  
+**GenAI & Tooling:** LangChain, GROQ, ChromaDB, FastMCP, LangGraph  
+**Deployment & Dev:** FastAPI, Streamlit, Jupyter, Git, GitHub, MySQL, VS Code, PyCharm. :contentReference[oaicite:10]{index=10}
+
+---
+
+### 🧾 Courses & Certifications
+- Foundation of Data Science, Calculus, Probability & Statistics, Linear Algebra, Differential Equations.  
+- Data Science & AI Bootcamp — CodeBasics (certified). :contentReference[oaicite:11]{index=11}
+
+---
+
+### 🏅 Achievements & Leadership
+- JEE: Ranked in top 1% (JEE Advanced) and top 2% (JEE Mains) — 2022.  
+- Member, ShARE — IIT Ropar chapter. :contentReference[oaicite:12]{index=12}
+
+---
+
+### 📎 Quick links (repos & demos)
+- Human Resources Assistant Tool — `https://github.com/Dheeraj23-08/Human_Resources_Assistant_Tool`  
+- E-Commerce Chat Assistant — `https://github.com/Dheeraj23-08/E_Commerce_Chat_Assistant` & live demo  
+- Car Damage Detector — `https://github.com/Dheeraj23-08/Car_Damage_Detector` & live demo  
+- Credit Risk Modelling — `https://github.com/Dheeraj23-08/credit_risk_modelling_ml` & demo
+
+---
+
+
