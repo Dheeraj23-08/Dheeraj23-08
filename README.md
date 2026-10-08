@@ -98,7 +98,7 @@ I also enjoy building practical AI applications including **agentic AI assistant
   </a>
   &nbsp;
 
-  <a href="https://drive.google.com/file/d/1payz4F8EPUfbjWcSkdQE1FRlxbaz7yeG/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1JWh7gD6hYCtHGpZFf_YFlEtyiPWWRIuc/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   &nbsp;
