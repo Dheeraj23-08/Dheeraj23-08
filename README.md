@@ -1,24 +1,28 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#0077b5;">Dheeraj Thalour</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=450&lines=ML+Engineer+%7C+Data+Scientist;Building+Scalable+AI+Apps+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Associate+AI+Engineer+%7C+GenAI+%7C+ML;Building+LLM-Powered+AI+Applications+%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  📊 Data Science Enthusiast | 🐍 Python | 🧮 SQL | ➗ Math | 🤖 Machine Learning | 🔍 Exploring Statistical Modeling & Real-World Data
+  🤖 GenAI | 🧠 Machine Learning | 🐍 Python | 🧮 SQL | 🔍 RAG | ⚡ LLM Applications | 📊 Data Science
 </p>
 
 ---
 
 ### 🧠 About Me
-Hello! I'm Dheeraj, an aspiring Data Scientist passionate about building intelligent systems that solve real-world problems through clean code, data, and automation.
 
-I have hands-on experience in **Machine Learning, Deep Learning, GenAI, and Data Engineering pipelines**, along with practical exposure to **model deployment, MLflow tracking, LLM-based assistants, and end-to-end AI applications**.
+Hello! I'm Dheeraj, an **Associate AI Engineer at MySellerCentral**, passionate about building intelligent, scalable AI systems that solve real-world problems.
 
-My journey is built around Python, SQL, and core libraries like Pandas, Scikit-learn, PyTorch, and XGBoost.  
-I’ve developed **production-ready ML models, agentic AI tools, end-to-end LLM chat assistants, image classification systems**, and multiple **Streamlit apps** deployed for real-time use.
+I have hands-on experience in **LLMs, Generative AI, Machine Learning, Deep Learning, NLP, web scraping, and AI-powered data pipelines**. I work on end-to-end systems involving **data extraction, content processing, semantic chunking, embeddings, vector search, and LLM-based media analysis**.
 
-Currently, I am pursuing B.Tech at **IIT Ropar**, working on ML-based predictive modeling and AI tool development.
+Currently, I work on AI-powered knowledge-base pipelines for platforms including **Amazon, Shopify, Flipkart, Walmart, and eBay**, using technologies such as **OpenAI, Google Gemini, Zyte API, PostgreSQL, pgvector, MongoDB, FastMCP, and Python**.
+
+I also enjoy building practical AI applications including **agentic AI assistants, RAG-based chatbots, computer vision systems, and predictive ML models**.
+
+🎓 B.Tech. in Civil Engineering — **IIT Ropar**  
+💼 Associate AI Engineer — **MySellerCentral**  
+🔬 Research Intern — **IIT Ropar**
 
 ---
 
@@ -31,32 +35,44 @@ Currently, I am pursuing B.Tech at **IIT Ropar**, working on ML-based predictive
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-  <!-- ML Frameworks -->
+  <!-- ML & Deep Learning -->
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-FF7043?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Optuna-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
 
-  <!-- Data & Viz -->
+  <!-- Data -->
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <!-- GenAI & LLM Tools -->
+  <!-- GenAI & LLM -->
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastMCP-000000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
   <img src="https://img.shields.io/badge/GROQ-A100FF?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChromaDB-4A148C?style=for-the-badge&logo=python&logoColor=white"/>
 
-  <!-- Tools & Dev -->
+  <!-- Databases & Vector Search -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+  <!-- Scraping & Deployment -->
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zyte%20API-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+
+  <!-- Developer Tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
 
@@ -77,32 +93,27 @@ Currently, I am pursuing B.Tech at **IIT Ropar**, working on ML-based predictive
 
 <p align="center">
 
-  <!-- Portfolio -->
   <a href="https://codebasics.io/portfolio/Dheeraj-Thalour" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
 
-  <!-- Resume -->
   <a href="https://drive.google.com/file/d/1payz4F8EPUfbjWcSkdQE1FRlxbaz7yeG/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
   &nbsp;
 
-  <!-- Email -->
-  <a href="mailto:dheerajthalour23@gmail.com" target="_blank">
+  <a href="mailto:dheerajthalour23@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
 
-  <!-- GitHub -->
-  <a href="https://github.com/Dheeraj23-08" target="_blank">
+  <a href="https://github.com/Dheeraj23-08">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/" target="_blank">
+  <a href="https://www.linkedin.com/in/dheeraj-thalour-861706259/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -111,11 +122,13 @@ Currently, I am pursuing B.Tech at **IIT Ropar**, working on ML-based predictive
 ---
 
 <p align="center">
-  🚀 *Striving to blend ML with creativity and real-world impact.*  
+  🚀 <i>Building AI systems that turn data into intelligent, real-world solutions.</i>
+  <br><br>
+  🎓 B.Tech — IIT Ropar | CGPA 7.36
   <br>
-  🎓 B.Tech — IIT Ropar | CGPA 7.14  
+  💼 Associate AI Engineer — MySellerCentral
   <br>
-  💼 AI/ML Intern — AtliQ Technologies | Research Intern — IIT Ropar  
+  🔬 Research Intern — IIT Ropar
   <br>
-  🧪 Projects: HR Assistant Tool • E-commerce AI Assistant • Car Damage Detector • Credit Risk Modeling  
+  🧪 Projects: HR Assistant • E-commerce AI Assistant • Car Damage Detector • Credit Risk Evaluator
 </p>
