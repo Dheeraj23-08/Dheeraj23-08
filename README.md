@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm <span style="color:#0077b5;">Dheeraj Thalour</span>!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Associate+AI+Engineer+%7C+GenAI+%7C+ML;Building+LLM-Powered+AI+Applications+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Associate%20AI%20Engineer%20%7C%20GenAI%20%7C%20ML;Building%20LLM-Powered%20AI%20Applications%20%F0%9F%A4%96" alt="Typing SVG" />
 </p>
 
 <p align="center">
